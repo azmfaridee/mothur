@@ -7,3 +7,5 @@
 .idea
 build
 xcuserdata
+TARGET_BUILD_DIR/
+TARGET_BUILD_DIRTARGET_BUILD_DIR/
